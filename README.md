@@ -1,0 +1,1 @@
+# lotto60_demo
