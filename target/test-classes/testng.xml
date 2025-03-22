@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="11" name="Test">
+    <classes>
+      <class name="org.lotto.testscripts.User_Login"/>
+      <class name="org.lotto.testscripts.User_Signupwith_Gmail"/>
+      <class name="org.lotto.testscripts.User_Signupwith_Email"/>
+      <class name="org.lotto.testscripts.Profile_PersonalInfo"/>
+      <class name="org.lotto.testscripts.Google_Authentication"/>  
+      <class name="org.lotto.testscripts.None_Authentication"/>
+      <class name="org.lotto.testscripts.Changing_Password"/>
+      <class name="org.lotto.testscripts.Add_N_Edit_ProfilePicture"/>
+      <class name="org.lotto.testscripts.Instant_Jackpot_Game"/>
+      <class name="org.lotto.testscripts.Roulotto_Game"/>
+      <class name="org.lotto.testscripts.Mega_Jackpot_Game"/>
+      <class name="org.lotto.testscripts.ActivityTabofGames"/>
+      <class name="org.lotto.testscripts.FooterGamesSection"/>
+      <class name="org.lotto.testscripts.FooterAccountsSection"/>
+      <class name="org.lotto.testscripts.FooterPlayerProtections"/>
+      <class name="org.lotto.testscripts.FooterAboutUsSection"/>
+    </classes>   
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

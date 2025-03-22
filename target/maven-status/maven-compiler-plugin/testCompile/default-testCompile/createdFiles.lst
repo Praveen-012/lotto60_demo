@@ -1,0 +1,13 @@
+org\lotto\testscripts\Instant_Jackpot_Game.class
+org\lotto\testscripts\Roulotto_Game.class
+org\lotto\testscripts\Changing_Password.class
+org\lotto\testscripts\None_Authentication.class
+org\lotto\testscripts\User_Signupwith_Gmail.class
+org\lotto\testscripts\User_Signupwith_Email.class
+org\lotto\testscripts\Profile_PersonalInfo.class
+org\lotto\lib\GeneralLotto.class
+org\lotto\testscripts\Add_N_Edit_ProfilePicture.class
+org\lotto\testscripts\ForgotPassword.class
+org\lotto\lib\GlobalLotto.class
+org\lotto\testscripts\Google_Authentication.class
+org\lotto\testscripts\User_Login.class
